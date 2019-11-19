@@ -10,7 +10,12 @@ vec1.dtype
 
 
 vec1 = np.zeros((2,2,2),dtype=np.int64)
+vec2 = np.zeros((4,4,4),dtype=np.int64)
+
 print(vec1)
+print(vec2)
+
+vec2.dtype
 vec1.dtype
 
 
