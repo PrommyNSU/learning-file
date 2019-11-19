@@ -39,7 +39,6 @@ print(type(x1))
 
 x2 = np.array([[1,2,3],[4,5,6]])
 print(x2)
-print(type(x2))
 
 
 x = np.ndarray(shape=3,dtype=int, buffer = np.array([1,2,3]))
